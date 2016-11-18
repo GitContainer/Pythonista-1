@@ -8,7 +8,7 @@
 - 整数从小到大
 - 负数从大到小
 
-  来源：[V2EX](https://www.v2ex.com/t/286691)
+- 来源：[V2EX](https://www.v2ex.com/t/286691)
 
 ## 解答
 
