@@ -1,5 +1,5 @@
 - [Python语言特性](#python语言特性)
-    - [1 Python的函数参数传递](#1-python的函数参数传递)
+    - [1 Python的函数参数传递](#1-python的函数参数传递1)
     - [2 Python中的元类(metaclass)](#2-python中的元类metaclass)
     - [3 @staticmethod和@classmethod](#3-staticmethod和classmethod)
     - [4 类变量和实例变量](#4-类变量和实例变量)
