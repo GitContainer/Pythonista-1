@@ -1,6 +1,6 @@
 **和 Python 一起走过的日子**
 
-- [Python语言相关](#-python语言相关)
+- [Python语言相关](#python语言相关)
  - [一道lambda排序问题](#1.1-一道lambda排序问题)
  - [汉诺塔递归玄学](#2-汉诺塔递归玄学)
 - [Flask漫游指南](#flask漫游指南)
