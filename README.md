@@ -113,6 +113,7 @@ def trangels():
 - $ 行结束
 - \-\^\$  转义字符
 - ( ) 分组
+- r 正则匹配时候 使用 r.match(r'xxxxxxxx') 避免xxxxx转义
 
 
 
