@@ -114,7 +114,7 @@ if a:
     print('ok')
 else:
     print('no')
-    ```
+```
 
 ---
 
