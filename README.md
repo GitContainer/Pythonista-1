@@ -110,6 +110,8 @@ import re
 
 t=input('Input Your mail')
 a=re.match(r'^([\w\d\.]+)\@([\w\d]+)\.([\w]+)$',t)
+#匹配带名字的邮箱
+#a=re.match(r'^(\<[\w\s]+\>)\s[\w\d\.]+\@[\w\d]+\.[\w]+$',t)
 if a:
     print('ok')
 else:
