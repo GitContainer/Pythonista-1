@@ -1,3 +1,4 @@
+词频分析，还差一个排序
 ```
 import re
 def count_word(path):
